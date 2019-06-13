@@ -1,9 +1,9 @@
 # Forked Version of PyLDS from Matt Johnson
 2019-06/13<br/>
-pylds was forked from Matt Johnson's repository for use in constructing structured VAE on linear dynamical systems.
+...pylds was forked from Matt Johnson's repository for use in constructing structured VAE on linear dynamical systems.
 Initial testing to be done on 1D moving dot data ("pong"-like linear dynamical system).
 <br/>
-Dependencies:<br/>
+...Dependencies:<br/>
     pybasicbayes (fork available here: https://github.com/bbpezeshki/pybasicbayes.git, forked from Matt Johnson)
 
 
