@@ -1,3 +1,8 @@
+# Forked Version of PyLDS from Matt Johnson
+2019-06/13
+pylds was forked from Matt Johnson's repository for use in constructing structured VAE on linear dynamical systems.
+Initial testing to be done on 1D moving dot data.
+
 # PyLDS: Bayesian inference for linear dynamical systems [![Test status](https://travis-ci.org/mattjj/pylds.svg?branch=master)](https://travis-ci.org/mattjj/pylds)
 _Authors: Matt Johnson and Scott Linderman_
 
